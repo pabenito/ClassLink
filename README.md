@@ -1,4 +1,4 @@
-# ClassLink
+# Educa 
 
 Aplicación para poner en contacto e impartir clases particules.
 
