@@ -4,6 +4,8 @@
 
 - Se podrán subir contenido a la aplicación. De forma que los profesores puedan crear campus virtual con estos
 - La aplicación contará con un chat interno para permitir a los usuarios comunicarse
+- La aplicación ofrecerá una evolución de las métricas de la aplicación (visitas, número de usarios, clases impartidas)
+- La aplicación dispondrá de foros por categoría
 
 ## Usuarios
 
@@ -15,6 +17,9 @@
 
 - Los alumnos podrán solicitar materias que les gustaría cursar, de forma que incite a los profesores a impartir clase en esa materia
 - Los alumnos podrán subscribirse a ciertos temas
+- Los alumnos podrán reportar a los profesores si no asisten a la clase
+- A los alumnos se les cobrará un porcentaje de la cantidad a pagar por la clase si cancelan con menos de un día de antelación. La cantidad a cobrar será proporcional a la antelacion con la que cancele. 
+- La aplicación dispondrá de un apartado para sugerir mejoras
 
 ## Profesores
 
