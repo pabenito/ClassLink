@@ -27,6 +27,7 @@
 - Los profesores podrán fijar un precio por hora para cada materia que imparte
 - Los profesores podrán hacer un resumen de las clases que imparten (de cada clase). De forma que el alumno pueda revisar los conceptos que se aprendieron y los padres puedan llevar un control de lo que se hace en clase
 - Los profesores podrán añadir materias que impartir
+- Si un profesor cancela una clase a menos de clase 6 horas de esta, en la siguiente clase se le duplicará la comisión.  
 
 ## Clases 
 
@@ -39,6 +40,7 @@
 - Se podrán hacer búsquedas de clases ofertadas por materia, disponibilidad horaria e idioma
 - Se harán sugerencias de posibles clases que podrían interesar
 - Se podrá buscar por valoraciones de los profesores, número de clases y ranking
+- Se podrán contratar 
 
 ## Pago
 
@@ -50,3 +52,10 @@
 - Si no hay saldo suficiente para un pago, este se cobrará de la tarjeta de crédito si la tiene, sino no podrá asistir a la clase
 - Los pagos tendŕan como concepto la información de la clase
 - Los usuarios podrán invitar a amigos a la aplicación. Si un usuario entra mediante un enlace de invitación, el 10% de las comisiones de sus clases se añadiran al saldo del usuario que lo invitó
+
+## Rating
+
+- Los alumnos podrán puntuar a los profesores al finalizar la calse, y siempre que el pago se haya hecho a travé de la aplicación
+- Las puntuaciones se harán para cada una de las siguientes categorías: conocimiento, claridad y profesionalidad
+- Los ratings podrán enviarse de forma anónima
+- Los ratings podrán tener un mensaje adicional
