@@ -1,41 +1,41 @@
-## Requisitos
+# Requisitos
 
-### Aplicación  
+## Aplicación  
 
 - Se podrán subir contenido a la aplicación. De forma que los profesores puedan crear campus virtual con estos
 - La aplicación contará con un chat interno para permitir a los usuarios comunicarse
 
-### Usuarios
+## Usuarios
 
 - Los usuarios podrán ser profesores y alumnos al mismo tiempo
 - Los usuarios podrán crear un perfil con nombre de perfil y descripción
 - Los usuarios podrán fijar su disponibilidad horaria
 
-### Alumnos 
+## Alumnos 
 
 - Los alumnos podrán solicitar materias que les gustaría cursar, de forma que incite a los profesores a impartir clase en esa materia
 - Los alumnos podrán subscribirse a ciertos temas
 
-### Profesores
+## Profesores
 
 - Los profesores podrán impartir clases de diferentes materias
 - Los profesores podrán fijar un precio por hora para cada materia que imparte
 - Los profesores podrán hacer un resumen de las clases que imparten (de cada clase). De forma que el alumno pueda revisar los conceptos que se aprendieron y los padres puedan llevar un control de lo que se hace en clase
 - Los profesores podrán añadir materias que impartir
 
-### Clases 
+## Clases 
 
 - Las clases podrán ser compartidas con máximo dos alumnos 
 - Las clases dispondrán de videoconferencia, pizarra compartida y documento compartido
 - El precio de las clases se fija de antemano
 
-### Busqueda
+## Busqueda
 
 - Se podrán hacer búsquedas de clases ofertadas por materia, disponibilidad horaria e idioma
 - Se harán sugerencias de posibles clases que podrían interesar
 - Se podrá buscar por valoraciones de los profesores, número de clases y ranking
 
-### Pago
+## Pago
 
 - Los usuarios podrán añadir una tarjeta de crédito u otro servicios de pago (Google Pay, Paypal, etc.). 
 - El pago se hará a través de la aplicación por cada clase impartida
