@@ -6,6 +6,8 @@
 user
     username* : str
     password* : str
+    first_nam* : str
+    last_name* : str
     img : URL
     description : str 
     disponibility : schedule
@@ -15,8 +17,10 @@ user
     categories : [category]   
     ratings : [rating]
     packs : [pack]
-    classes : [class]
+    classes_as_student : [class]
+    classes_as_teacher : [class]
     duplicate_commission : bool
+    !credit_card
 ```
 
 ## Pack
@@ -178,6 +182,13 @@ rating
     clarity : int
 ```
 
+## Tarjeta de crédito
+
+```
+credit_card
+    number : int
+    cvv : int
+```
 
 
 
